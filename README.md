@@ -12,7 +12,7 @@
 - 🔑 I’m currently learning SQL Skills  
   
 
-- 🚩 have done +70 CTF's   
+- 🚩 CTF player (have done +70 CTF's)   
   
 
 - 🐉 main linux 💻  
