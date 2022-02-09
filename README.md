@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I'm a Cybersecurity student. We Identify threats, including capabilities like asset management, risk management, and governance.Protect against them, including access control, maintenance, and data security.Detect them when they do occur, including monitoring and anomalous events.Respond to threats that get past your defenses, including response planning, communications, and mitigation. And finally Recover from the hack, including communications taken in the wake of an attack, recovery planning, and improvements to systems and procedures.  
+I'm a Cybersecurity student. as a Cybersecurity student I identify threats, including capabilities like asset management, risk management, and governance. Protect against them, including access control, maintenance, and data security. Detect them when they do occur, including monitoring and anomalous events.Respond to threats that get past your defenses, including response planning, communications, and mitigation. And finally Recover from the hack, including communications taken in the wake of an attack, recovery planning, and improvements to systems and procedures.  
   
 
 <br/>  
