@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Yassine !  
  ### [Tryhackme Profile:](https://tryhackme.com/p/wheel.man)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/wheel.man.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/854763"></script>
   
 
 <a href="https://twitter.com/yassine50451384" target="_blank">
